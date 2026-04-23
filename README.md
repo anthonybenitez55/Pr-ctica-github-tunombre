@@ -1,14 +1,14 @@
-#Proyecto Tienda Online
+# Proyecto Tienda Online
 
-##Descripcion
+## Descripcion
 Este proyecto simula una tienda en linea.
 
-##Tecnologias 
+## Tecnologias 
 -HTML
 -CSS
 -JavaScript
 
-##Autor
+## Autor
 Anthony Eulises Benitez Medina 
 
 
